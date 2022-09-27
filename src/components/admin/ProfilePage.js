@@ -43,7 +43,7 @@ class ProfilePage extends Component{
                                             <option >Choose...</option>
                                             <option value="1">Super Admin</option>
                                             <option value="2">Admin</option>
-                                            <option value="3">Editor</option>
+                                            <option value="3">Editors</option>
                                         </select>
                                     </div>
                                 </div>
